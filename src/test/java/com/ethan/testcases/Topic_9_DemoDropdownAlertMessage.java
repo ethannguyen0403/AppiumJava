@@ -6,7 +6,7 @@ import io.appium.java_client.AppiumBy;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class DemoDropdownAlertMessage extends BaseTest {
+public class Topic_9_DemoDropdownAlertMessage extends BaseTest {
     @Test(priority = 1)
     public void testLoginTaurusApp() throws InterruptedException {
         Thread.sleep(2000);

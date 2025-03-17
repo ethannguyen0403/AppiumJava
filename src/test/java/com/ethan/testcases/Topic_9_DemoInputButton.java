@@ -1,13 +1,12 @@
 package com.ethan.testcases;
 
 import com.ethan.common.BaseTest;
-import com.ethan.common.BaseTest;
 import com.ethan.drivers.DriverManager;
 import io.appium.java_client.AppiumBy;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class DemoInputButton extends BaseTest {
+public class Topic_9_DemoInputButton extends BaseTest {
 
     @Test
     public void testLoginTaurusApp() throws InterruptedException {
